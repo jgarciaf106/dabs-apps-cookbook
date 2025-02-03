@@ -20,7 +20,7 @@ Building blocks of a Databricks App.
 
 4. On the target directory, generate the bundle make your choices in the prompt
     ```
-    $ databricks bundle init https://github.com/databricks-solutions/databricks-dab-examples --template-dir bundle-app-template --profile <your CLI profile>
+    $ databricks bundle init https://github.com/jgarciaf106/dabs-apps-cookbook --template-dir bundle-app-template --profile <your CLI profile>
     ```
    Example:
     ```

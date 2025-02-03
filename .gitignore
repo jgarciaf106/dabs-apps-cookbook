@@ -1,0 +1,10 @@
+*conf*.json
+.DS_Store
+__pycache__
+.idea/
+.vscode/
+.env
+.venv
+.databricks
+build/
+dist/
